@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Apple",
+    "quantity": 12,
+    "price": 9
+  },
+  {
+    "name": "Banana",
+    "quantity": 20,
+    "price": 2
+  },
+  {
+    "name": "Orange",
+    "quantity": 15,
+    "price": 3
+  },
+  {
+    "name": "Mango",
+    "quantity": 8,
+    "price": 7
+  },
+  {
+    "name": "Grapes",
+    "quantity": 12,
+    "price": 4
+  },
+  {
+    "name": "Pineapple",
+    "quantity": 5,
+    "price": 10
+  },
+  {
+    "name": "Watermelon",
+    "quantity": 3,
+    "price": 15
+  },
+  {
+    "name": "Strawberry",
+    "quantity": 18,
+    "price": 6
+  },
+  {
+    "name": "Blueberry",
+    "quantity": 6,
+    "price": 8
+  },
+  {
+    "name": "Peach",
+    "quantity": 9,
+    "price": 5
+  },
+  {
+    "name": "Kiwi",
+    "quantity": 12,
+    "price": 9
+  },
+  {
+    "name": "tomato",
+    "quantity": 12,
+    "price": 9
+  }
+]
